@@ -1,3 +1,6 @@
+**BRAIN STROKE PREDICTION**
+
+
 >Brain Stroke Prediction ML Project
 This project aims to develop a machine learning model to predict the likelihood of a person experiencing a brain stroke based on various health indicators and demographic factors. The dataset used for this project contains information such as age, hypertension status, heart disease status, average glucose level, body mass index (BMI), and smoking status.
 
